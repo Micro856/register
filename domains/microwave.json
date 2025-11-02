@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "Micro856",
+    "discord": "885501598141403187"
+  },
+  "records": {
+    "MX": ["8fa9e50b3cfed036.mx1.emailprofi.seznam.cz", "8fa9e50b3cfed036.mx1.emailprofi.seznam.cz"],
+    "TXT": "v=spf1 include:spf.seznam.cz ~all"
+  }
+}
